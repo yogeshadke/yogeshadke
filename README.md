@@ -1,5 +1,4 @@
 - Hi, I'm Yogesh R Adke! 
-yogeshadke
 
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 🔥 Streak Stats
