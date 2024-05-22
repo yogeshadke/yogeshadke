@@ -1,16 +1,28 @@
-## Hi there 👋
+- Hi, I'm Yogesh R Adke! 
+yogeshadke
 
-<!--
-**yogeshadke/yogeshadke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+🔥 Streak Stats
+Yogesh's streak
 
-Here are some ideas to get you started:
+If you can dream it, you can do it🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ My Favorite Tools
+👨‍💻 Programming Languages
+HTML Java 
+
+🧰 Frameworks and Libraries
+TestNG 
+
+🗄️ Databases and Cloud Hosting
+GitHub Pages MongoDB MySQL 
+
+💻 Software and Tools
+Eclipse Git Google Sheets Postman 
+
+📊 Github Stats
+💻 GitHub Profile Stats
+⚡ Recent GitHub Activity
+🙋‍♀️ Let's Connect
+Portfolio GitHub LinkedIn Facebook Instagram Gmail
 -->
