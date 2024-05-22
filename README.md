@@ -8,20 +8,28 @@ If you can dream it, you can do it🔥
 
 🛠️ My Favorite Tools
 👨‍💻 Programming Languages
+
 HTML Java 
 
 🧰 Frameworks and Libraries
+
 TestNG 
 
 🗄️ Databases and Cloud Hosting
+
 GitHub Pages MongoDB MySQL 
 
 💻 Software and Tools
+
 Eclipse Git Google Sheets Postman 
 
 📊 Github Stats
+
 💻 GitHub Profile Stats
+
 ⚡ Recent GitHub Activity
+
 🙋‍♀️ Let's Connect
+
 Portfolio GitHub LinkedIn Facebook Instagram Gmail
 -->
