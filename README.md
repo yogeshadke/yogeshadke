@@ -15,7 +15,7 @@ Hi, I'm Yogesh Adke!
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
 
-
+<p align="center">
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
