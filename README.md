@@ -59,7 +59,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <a href="#"></a>
     <a href="#"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-%23F05033.svg?logo=Eclipse&logoColor=white"></a>
     <a href="#"></a>
     <a href="#"></a>
     <a href="#"></a>
