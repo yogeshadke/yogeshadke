@@ -83,5 +83,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <p align="center">
   </a>
   <p align="center"> Resume Link🔥 </p>
+  <p align="center"> https://drive.google.com/file/d/19qQtaDhNjvR6ppmXty2A0b3rQ4-BnNxC/view?usp=sharing
+🔥 </p>
 </p>
-              https://drive.google.com/file/d/19qQtaDhNjvR6ppmXty2A0b3rQ4-BnNxC/view?usp=sharing
+                                    
