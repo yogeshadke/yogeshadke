@@ -8,7 +8,7 @@ Hi, I'm Yogesh Adke!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bachlor's+In+Electronics;QA+Enginner+Automation+Manual;%20|%20Salesforce%20|%20API%20|%20Mobile%20Testing|;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bachlor's+In+Electronics;QA+Enginner+Automation+Manual;%20|%20Salesforce%20|%20API%20|%20Mobile%20|%20Testing%20|;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 <samp>
