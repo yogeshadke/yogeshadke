@@ -40,7 +40,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="TestNG" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="TestNG" src="https://img.shields.io/badge/-TestNG-00979D?logo=TestNG&logoColor=white"></a>
   
 </p>
 
