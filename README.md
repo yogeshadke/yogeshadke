@@ -75,9 +75,10 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="https://yogeshadke.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/yogeshadke" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/yogesh-adke-istqb-ctfl/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	</a>
-	</a>
+	<a href="https://www.facebook.com/yogeshadke/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/yogeshadke/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.drive.google.com/file/d/19qQtaDhNjvR6ppmXty2A0b3rQ4-BnNxC/view?usp=sharing/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Resumelink"/></a>
 	<a href="mailto:yogeshadke24@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-
+https://drive.google.com/file/d/19qQtaDhNjvR6ppmXty2A0b3rQ4-BnNxC/view?usp=sharing
